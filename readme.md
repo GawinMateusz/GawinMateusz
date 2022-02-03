@@ -39,7 +39,7 @@ User can create location, which is saved to database, display locations saved in
 
 ### Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Civil94&theme=nightowl&show_icons=true&hide=java)](https://github.com/GawinMateusz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GawinMateusz&theme=nightowl&show_icons=true&hide=java)](https://github.com/GawinMateusz/github-readme-stats)
   
 [![GawinMateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GawinMateusz&hide=stars&theme=nightowl&show_icons=true)](https://github.com/GawinMateusz/github-readme-stats)
 
