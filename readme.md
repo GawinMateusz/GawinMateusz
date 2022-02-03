@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hi! 👋
 I'm [Mateusz](https://www.linkedin.com/in/mateusz-gawin/) and I would like to become a competent Java Developer!
 
 ## GOALS
